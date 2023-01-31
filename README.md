@@ -4,7 +4,7 @@
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, Java, C++, Node
-- ⚙️ React, React-Native
+- ⚙️ React, React-Native, NextJS
 - 👁️ HTML, CSS, Styled Componentes, MaterialUI, CarbonDesing, Bootstrap
 - 💽 MongoDB, MariaDB, MySQL, Firebase
 - :busts_in_silhouette: Scrum, Git, Github, AzureDevOps, PSP, Docker, UML

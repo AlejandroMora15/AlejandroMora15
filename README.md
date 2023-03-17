@@ -8,7 +8,7 @@
 - 👁️ HTML, CSS, Styled Componentes, MaterialUI, CarbonDesing, Bootstrap, Antd
 - 💽 MongoDB, MariaDB, MySQL, Firebase
 - :busts_in_silhouette: Scrum, Git, Github, AzureDevOps, PSP, Docker, UML
-- :recycle: Jest, Cypress
+- :recycle: Jest, Cypress, K6
 
 ## Contact
 - [AlejandroMora15](https://alejandromora15.github.io/my-portfolio/)

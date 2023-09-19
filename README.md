@@ -1,13 +1,14 @@
 <h1> Hi, I'm Alejandro Morales Ríos! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
- A passionate Frontend web developer from Colombia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+ A passionate Fullstack developer from Colombia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, Java, C++, Node
-- ⚙️ React, React-Native, NextJS
-- 👁️ HTML, CSS, Styled Componentes, MaterialUI, CarbonDesing, Bootstrap, Antd
-- 💽 MongoDB, MariaDB, MySQL, Firebase
-- :busts_in_silhouette: Scrum, Git, Github, AzureDevOps, PSP, Docker, UML
+- 👨‍💻 TypeScript, JavaScript, Java, C++
+- ⚙️ React, React-Native, NextJS, Astro
+- 👁️ HTML, CSS, StyledComponentes, MaterialUI, CarbonDesign, Bootstrap, Antd, Tailwind, PaperNative
+- ☁️ AWS, GoogleCloud, Supabase
+- 💽 MongoDB, Firebase, GoogleCloudStorage, DynamoDB, MariaDB, MySQL, Postgres
+- :busts_in_silhouette: Scrum, Git, Github, Docker, UML, PSP
 - :recycle: Jest, Cypress, K6
 
 ## Contact
